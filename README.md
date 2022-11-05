@@ -11,7 +11,7 @@ Matlab R2018b
 
 # Experimental Results
 <p align="center">
-    <img src="figures/exp.png" width="500" height="400"> 
+    <img src="figures/exp.png" width="360" height="300"> 
 
     
 
